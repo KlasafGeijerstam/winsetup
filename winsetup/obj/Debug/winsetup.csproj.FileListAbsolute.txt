@@ -31,3 +31,19 @@ C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Debug\
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Debug\winsetup.Properties.Resources.resources
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Debug\winsetup.csproj.GenerateResource.Cache
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Debug\ASquare.WindowsTaskScheduler.dll
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\winsetup.exe.config
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.exe
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.pdb
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\winsetup.exe
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\winsetup.pdb
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\Fizzler.dll
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\HtmlAgilityPack.dll
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\Fizzler.xml
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\HtmlAgilityPack.pdb
+H:\Desktop\winset\New folder\winsetup\winsetup\bin\Debug\HtmlAgilityPack.xml
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.csprojResolveAssemblyReference.cache
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.Form1.resources
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.Properties.Resources.resources
+H:\Desktop\winset\New folder\winsetup\winsetup\obj\Debug\winsetup.csproj.GenerateResource.Cache

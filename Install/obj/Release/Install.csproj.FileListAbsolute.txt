@@ -3,3 +3,9 @@ C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\bin\Release
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\bin\Release\Install.pdb
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\obj\Release\Install.exe
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\obj\Release\Install.pdb
+H:\Desktop\winset\New folder\winsetup\Install\bin\Release\Install.exe.config
+H:\Desktop\winset\New folder\winsetup\Install\obj\Release\Install.exe
+H:\Desktop\winset\New folder\winsetup\Install\obj\Release\Install.pdb
+H:\Desktop\winset\New folder\winsetup\Install\bin\Release\Install.exe
+H:\Desktop\winset\New folder\winsetup\Install\bin\Release\Install.pdb
+H:\Desktop\winset\New folder\winsetup\Install\obj\Release\Install.csprojResolveAssemblyReference.cache

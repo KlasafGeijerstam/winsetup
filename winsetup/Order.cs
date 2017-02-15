@@ -48,6 +48,7 @@ namespace winsetup
             {
                 if (!Executed && Type != null && Data != null)
                 {
+                    Executed = true;
                     var arr = Data.Split(';');
                     switch (Type)
                     {
@@ -58,7 +59,6 @@ namespace winsetup
                             SendKeys.SendWait(Data);
                             break;
                         case "openUrl":
-                            Executed = true;
                             Process.Start(Data);
                             break;
                         case "setBg":
@@ -67,7 +67,7 @@ namespace winsetup
                         default:
                             break;
                     }
-                    Executed = true;
+
                     web.Load(callbackUrl + $"{Parent.Guid};{ID}");
                 }
             }

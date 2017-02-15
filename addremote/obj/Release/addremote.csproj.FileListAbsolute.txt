@@ -5,3 +5,10 @@ C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\bin\Relea
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Release\addremote.csprojResolveAssemblyReference.cache
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Release\addremote.exe
 C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Release\addremote.pdb
+H:\Desktop\winset\New folder\winsetup\addremote\bin\Release\rem.html
+H:\Desktop\winset\New folder\winsetup\addremote\bin\Release\addremote.exe.config
+H:\Desktop\winset\New folder\winsetup\addremote\bin\Release\addremote.exe
+H:\Desktop\winset\New folder\winsetup\addremote\bin\Release\addremote.pdb
+H:\Desktop\winset\New folder\winsetup\addremote\obj\Release\addremote.csprojResolveAssemblyReference.cache
+H:\Desktop\winset\New folder\winsetup\addremote\obj\Release\addremote.exe
+H:\Desktop\winset\New folder\winsetup\addremote\obj\Release\addremote.pdb
