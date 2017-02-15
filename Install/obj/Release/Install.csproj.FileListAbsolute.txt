@@ -1,0 +1,5 @@
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\bin\Release\Install.exe.config
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\bin\Release\Install.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\bin\Release\Install.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\obj\Release\Install.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\Install\obj\Release\Install.pdb

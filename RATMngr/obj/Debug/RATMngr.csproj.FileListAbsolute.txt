@@ -1,0 +1,9 @@
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Debug\RATMngr.exe.config
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Debug\RATMngr.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Debug\RATMngr.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Debug\RATMngr.RatMngrForm.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Debug\RATMngr.Properties.Resources.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Debug\RATMngr.csproj.GenerateResource.Cache
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Debug\RATMngr.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Debug\RATMngr.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Debug\rem.html

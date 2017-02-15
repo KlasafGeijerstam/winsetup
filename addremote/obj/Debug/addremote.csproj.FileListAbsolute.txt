@@ -1,0 +1,13 @@
+H:\edu\quiz\winsetup\addremote\bin\Debug\addremote.exe.config
+H:\edu\quiz\winsetup\addremote\bin\Debug\addremote.exe
+H:\edu\quiz\winsetup\addremote\bin\Debug\addremote.pdb
+H:\edu\quiz\winsetup\addremote\obj\Debug\addremote.csprojResolveAssemblyReference.cache
+H:\edu\quiz\winsetup\addremote\obj\Debug\addremote.exe
+H:\edu\quiz\winsetup\addremote\obj\Debug\addremote.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\bin\Debug\addremote.exe.config
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\bin\Debug\addremote.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\bin\Debug\addremote.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Debug\addremote.csprojResolveAssemblyReference.cache
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Debug\addremote.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\obj\Debug\addremote.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\addremote\bin\Debug\rem.html

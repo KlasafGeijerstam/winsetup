@@ -1,0 +1,16 @@
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\winsetup.exe.config
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\winsetup.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\winsetup.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\Fizzler.dll
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\HtmlAgilityPack.dll
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\Fizzler.xml
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\bin\Release\HtmlAgilityPack.xml
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.Form1.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.Properties.Resources.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.csproj.GenerateResource.Cache
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\winsetup\obj\Release\winsetup.csprojResolveAssemblyReference.cache

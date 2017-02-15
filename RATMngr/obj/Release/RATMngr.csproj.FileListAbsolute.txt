@@ -1,0 +1,10 @@
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Release\rem.html
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Release\RATMngr.exe.config
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Release\RATMngr.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\bin\Release\RATMngr.pdb
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.csprojResolveAssemblyReference.cache
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.RatMngrForm.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.Properties.Resources.resources
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.csproj.GenerateResource.Cache
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.exe
+C:\Users\Klas\Documents\Visual Studio 2015\Projects\winsetup\RATMngr\obj\Release\RATMngr.pdb
